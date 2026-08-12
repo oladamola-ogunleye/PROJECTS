@@ -1,24 +1,6 @@
 
 # 📊 PROJECTS
 
-This repository is the place to showcase my work as I grow into a data scientist. It includes hands-on projects across healthcare, finance, climate, and social analytics—each one reflecting my learning journey and technical development.
-
----
-
-## About This Repository
-
-Here you'll find:
-- Jupyter notebooks with machine learning models and data analysis
-- Power BI dashboards for visual storytelling
-- Cleaned datasets and exploratory insights
-- Documentation of my process, challenges, and discoveries
-
----
-
-## 📈 Featured Dashboard
-
-Explore my dashboards:
-
 1. Performance, Volatility & Efficiency of Ten Leading Tech Stocks (January 2015 – Present Day)
 [🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTc3NmE3NmMtYTU2Zi00YjRjLTgyMGItYmM2NGE0OGZhMjQxIiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)
 
