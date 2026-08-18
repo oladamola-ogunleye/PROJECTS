@@ -97,7 +97,7 @@ Analysis of NHS bed-capacity and occupancy data to investigate operational press
 
 The project demonstrates the use of operational healthcare data to understand **capacity pressure, patient flow, seasonal demand and organisational performance**.
 
-🔗 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTVkYTI5ODQtZTE3Zi00ZjkyLWFhYjctZGI4OTkwNTZmODliIiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)**
+🔗 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTVkYTI5ODQtZTE3Zi00ZjkxLWFhYjctZGI4OTkwNTZmODliIiwidCI6IjQ5ZDY2N2E3LWI2NGMtNDlkNC1iMDNlLWRmMjEzNDQzZDMyNyJ9)**
 
 ---
 
