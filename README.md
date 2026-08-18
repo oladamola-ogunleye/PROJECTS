@@ -231,13 +231,11 @@ I am particularly interested in opportunities involving:
 
 ---
 
-# 🤝 Let's Connect
-
-I am open to opportunities and collaborations involving **Data Analytics, Business Intelligence, Healthcare Analytics and Data Informatics**.
+# I am open to opportunities and collaborations involving **Data Analytics, Business Intelligence, Healthcare Analytics and Data Informatics**.
 
  **Email:** [ogunleyeoladamola1@gmail.com](mailto:ogunleyeoladamola1@gmail.com)
 
-💻 **GitHub:** [github.com/oladamola-ogunleye](https://github.com/oladamola-ogunleye)
+**GitHub:** [github.com/oladamola-ogunleye](https://github.com/oladamola-ogunleye)
 
 ---
 
