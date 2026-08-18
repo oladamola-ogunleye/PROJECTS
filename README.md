@@ -1,4 +1,4 @@
-# 📊 Oladamola Ogunleye | Data Analytics Portfolio
+# Oladamola Ogunleye | Data Analytics Portfolio
 
 ### Data Analyst | Business Intelligence | Healthcare & Operational Analytics
 
@@ -10,7 +10,7 @@ My projects span **healthcare analytics, operational performance, financial mark
 
 ---
 
-## 🛠️ Technical Toolkit
+## Technical Toolkit
 
 **Data Analysis & Programming**
 `SQL` • `Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Jupyter Notebook`
@@ -23,9 +23,9 @@ Data Cleaning • Exploratory Data Analysis • Statistical Analysis • KPI Dev
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 📈 Technology Stocks: Performance, Volatility & Market Intelligence
+## Technology Stocks: Performance, Volatility & Market Intelligence
 
 **Python | SQL Server | Power BI | DAX | Time-Series Analysis**
 
@@ -52,7 +52,7 @@ The dashboard converts historical financial-market data into an interactive deci
 
 ---
 
-## 🏥 NHS Patient-Led Assessments of the Care Environment — PLACE 2024
+##  NHS Patient-Led Assessments of the Care Environment — PLACE 2024
 
 **Python | Power BI | NHS Open Data | Healthcare Analytics**
 
@@ -77,7 +77,7 @@ The project demonstrates how national NHS data can be transformed into meaningfu
 
 ---
 
-## 🛏️ NHS Bed Situation & Capacity Analytics
+## NHS Bed Situation & Capacity Analytics
 
 **Python | Power BI | NHS Open Data | Healthcare Operations**
 
@@ -101,7 +101,7 @@ The project demonstrates the use of operational healthcare data to understand **
 
 ---
 
-## 👮 UK Police Limited Duties Analysis — 2016–2025
+## UK Police Limited Duties Analysis — 2016–2025
 
 **Power BI | Data Transformation | Public-Sector Analytics**
 
@@ -124,9 +124,9 @@ The dashboard transforms longitudinal workforce data into accessible visual inte
 
 ---
 
-# 🔬 Additional Data Science Projects
+#  Additional Data Science Projects
 
-## 🏠 House Price Prediction
+## House Price Prediction
 
 Machine-learning project investigating residential property-price prediction using feature engineering and multiple modelling approaches.
 
@@ -144,7 +144,7 @@ Additional techniques included:
 
 ---
 
-## 🩺 Disease Diagnosis Prediction
+## Disease Diagnosis Prediction
 
 Machine-learning classification project investigating the use of clinical variables for disease prediction.
 
@@ -159,7 +159,7 @@ Machine-learning classification project investigating the use of clinical variab
 
 ---
 
-## 🌍 World Happiness Analysis
+## World Happiness Analysis
 
 Exploratory and predictive analysis of international happiness data examining relationships between socioeconomic factors and national happiness outcomes.
 
@@ -174,13 +174,13 @@ Exploratory and predictive analysis of international happiness data examining re
 
 ---
 
-## 🌦️ Climate Data Analysis
+## Climate Data Analysis
 
 Exploratory analysis of climate data using Python and Jupyter Notebook to investigate environmental patterns and trends.
 
 ---
 
-## 🍽️ FoodWheel Delivery Service Analysis
+## FoodWheel Delivery Service Analysis
 
 Business analytics project examining food-delivery data to identify patterns in customer behaviour and operational performance.
 
@@ -188,7 +188,7 @@ Insights from the analysis were translated into strategic recommendations and pr
 
 ---
 
-# 🔄 My Analytical Approach
+# My Analytical Approach
 
 I approach data problems using an end-to-end analytical workflow:
 
@@ -215,19 +215,19 @@ Focus on what the evidence means for decision-makers, not simply what the number
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 I am particularly interested in opportunities involving:
 
-* 📊 Data Analytics
-* 📈 Business Intelligence
-* 🏥 Healthcare Analytics
-* 💊 Pharmacy Informatics
-* ⚙️ Operational Analytics
-* 🏥 NHS Performance & Informatics
-* 🔄 Process Improvement
-* 🤖 Predictive Analytics
-* 📋 Reporting & Dashboard Automation
+* Data Analytics
+* Business Intelligence
+* Healthcare Analytics
+* Pharmacy Informatics
+* Operational Analytics
+* NHS Performance & Informatics
+* Process Improvement
+* Predictive Analytics
+* Reporting & Dashboard Automation
 
 ---
 
@@ -235,7 +235,7 @@ I am particularly interested in opportunities involving:
 
 I am open to opportunities and collaborations involving **Data Analytics, Business Intelligence, Healthcare Analytics and Data Informatics**.
 
-📧 **Email:** [ogunleyeoladamola1@gmail.com](mailto:ogunleyeoladamola1@gmail.com)
+ **Email:** [ogunleyeoladamola1@gmail.com](mailto:ogunleyeoladamola1@gmail.com)
 
 💻 **GitHub:** [github.com/oladamola-ogunleye](https://github.com/oladamola-ogunleye)
 
